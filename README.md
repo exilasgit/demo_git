@@ -5,4 +5,4 @@ modif 1 en local
 modif 2 en ligne
 
 
-MAJ depuis local aussi
+MAJ depuis local aussi cool
